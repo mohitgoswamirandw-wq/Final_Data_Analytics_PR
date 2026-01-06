@@ -1,0 +1,61 @@
+1️⃣ Which zones are energy hotspots or inefficient?
+
+Central Zone is the primary energy hotspot, showing the highest total kWh consumption.
+
+This is expected due to a higher concentration of commercial and industrial consumers.
+
+North Zone shows signs of energy inefficiency, combining moderate consumption with higher outage minutes.
+
+✅ Conclusion:
+
+Hotspot: Central Zone
+
+Inefficient Zone: North Zone
+
+2️⃣ What consumer type uses the most power?
+
+Industrial consumers consume the highest total energy.
+
+They have:
+
+High daily consumption
+
+Higher peak usage values
+
+Residential consumers consume the least energy overall.
+
+✅ Ranking (Highest → Lowest):
+
+Industrial
+
+Commercial
+
+Residential
+
+3️⃣ Are certain times/days correlated with high peak usage?
+
+Weekdays show higher average peak usage compared to weekends.
+
+This aligns with:
+
+Industrial operations
+
+Office/commercial activity during business days
+
+✅ Conclusion:
+Peak usage is strongly correlated with weekdays, not weekends.
+
+4️⃣ Are there areas with unreliable power supply (frequent outages)?
+
+North Zone records the highest total outage minutes.
+
+Faulty meters are more frequent in this zone.
+
+Indicates:
+
+Aging infrastructure
+
+Maintenance issues
+
+✅ Conclusion:
+North Zone has the most unreliable power supply.
